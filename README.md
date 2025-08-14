@@ -1,3 +1,5 @@
+[![CI Pipeline](https://github.com/romiraxp/js_containers/actions/workflows/main.yml/badge.svg?branch=main)](https://github.com/romiraxp/js_containers/actions/workflows/main.yml)
+
 # Домашнее задание к лекции «Контейнеры»
 
 **Важно**: каждая задача выполняется в виде отдельного проекта с собственным GitHub репозиторием.
