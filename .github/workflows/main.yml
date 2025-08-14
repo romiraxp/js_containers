@@ -1,4 +1,4 @@
-me: CI Pipeline
+name: CI Pipeline
 on: [push] # запуск при Push в main
 
 jobs:
